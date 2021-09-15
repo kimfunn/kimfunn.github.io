@@ -20,7 +20,7 @@ title                    : "kimfunn's NLP"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "kimfunn"
-description              : "An amazing website."
+description              : "My NLP study flow"
 url                      : "https://kimfunn.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
